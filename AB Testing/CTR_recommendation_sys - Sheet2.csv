@@ -1,0 +1,31 @@
+Names,search text,NMF+TF-IDF(project1),LDA+BOW(project3)
+A,machine learning,0,1
+B,statistics,0,1
+C,business courses,1,0
+A,biosciences,0,1
+B,physics,0,1
+C,data analytics,0,1
+A,health,1,1
+B,python beginnner course,0,1
+C,d3 charts,1,0
+A,data structures,0,1
+B,test,0,1
+C,linear algebra,0,1
+A,matrix,0,1
+B,cyber security,1,0
+C,macroeconomics,1,0
+A,finance,1,0
+B,marketing,1,0
+C,social media,1,0
+A,ab testing,0,1
+B,structured query language,0,1
+C,material science,0,1
+A,UX design,1,0
+B,architecture,0,1
+C,algorithms,0,1
+A,food technology,0,1
+B,supply chain,1,1
+C,music,0,1
+A,games,1,0
+B,analog circuits,0,1
+C,acturial science,0,1
